@@ -1,0 +1,1 @@
+Arc2(50).fill2().cut2(Arc2(40).fill2())
